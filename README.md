@@ -31,9 +31,8 @@ The dataset contains:
 - Bonus
 ---
 ## 📷 Dashboard Preview
-### E-commerce Dashboard
 
-![Dashboard](./Screenshot(441).png)
+![Dashboard](./Screenshot%20(441).png)
 
 
 
