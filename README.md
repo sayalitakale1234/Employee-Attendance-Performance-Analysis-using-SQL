@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 Designed and analyzed an employee attendance and performance database using SQL. Performed joins, aggregations, window functions, CTEs, and analytical queries to evaluate attendance trends, employee productivity, leave patterns, departmental performance, and KPI metrics.
 
-## 🎯 Project Objective
+ 🎯 Project Objective
 Analyze employee attendance, leave, and performance data to help HR monitor workforce productivity, attendance trends, and employee performance.
 ---
 
