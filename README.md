@@ -33,7 +33,7 @@ The dataset contains:
 ## 📷 Dashboard Preview
 ### E-commerce Dashboard
 
-![Dashboard](./E-commerce%20Dashboard.png)
+![Dashboard](./Screenshot(441).png)
 
 
 
