@@ -51,7 +51,12 @@ The dataset contains:
 ![Dashboard](./Screenshot%20(450).png)
 
 ---
+## 🔍 Key Insights
 
+- The organization consists of 200 employees across multiple departments, including IT, HR, Finance, Sales, and Marketing.
+- The IT department achieved the highest productivity score.
+- The IT department recorded the highest average salary.
+---
 ## 📁 Files Included
 - Screenshot (441).PNG
 - Screenshot (442).PNG
